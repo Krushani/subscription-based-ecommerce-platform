@@ -194,3 +194,37 @@ This project provided valuable experience in:
 - production monitoring and troubleshooting
 - distributed backend system design
 - real-world business workflow automation
+
+---
+
+# 🚀 Future Improvements
+
+If scaling the platform further, the next engineering improvements would include:
+
+- Container orchestration using Kubernetes for improved scalability and deployment flexibility
+- Distributed caching using Redis to optimize read-heavy marketplace workflows
+- Event-driven microservices architecture for improved service decoupling
+- OpenTelemetry integration for deeper distributed tracing and observability
+- Advanced rate limiting and API gateway implementation for traffic management
+- Real-time notification services for subscription and marketplace events
+- Improved horizontal auto-scaling strategies for high seasonal traffic periods
+
+---
+
+# 🧠 Key Engineering Learnings
+
+This project strengthened my experience in:
+- enterprise application modernization
+- scalable marketplace architecture
+- cloud-native backend engineering
+- Azure infrastructure and monitoring
+- production troubleshooting and diagnostics
+- CI/CD automation workflows
+- search optimization using Elasticsearch
+- secure API development using OAuth 2.0 and JWT authentication
+
+---
+
+# 📌 Closing Note
+
+This repository represents an NDA-safe engineering case study focused on scalable marketplace system design, platform modernization, cloud infrastructure, and production-ready backend engineering practices.
