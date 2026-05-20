@@ -102,3 +102,56 @@ This improved:
 ## 🔹 Google Maps Integration
 
 Google Maps APIs were integrated to help customers locate vendor stores, calculate distances, and improve location-based marketplace interactions.
+
+---
+
+# 👨‍💼 Leadership & Project Ownership
+
+In addition to backend engineering responsibilities, I contributed to technical leadership and cross-functional project coordination throughout the platform modernization initiative.
+
+## 🚀 Key Responsibilities
+
+- Led backend feature development and modernization efforts during the migration to .NET Core
+- Participated in client discussions to gather technical and business requirements
+- Collaborated with team members on architecture planning and implementation strategies
+- Coordinated development tasks and supported delivery timelines across multiple modules
+- Contributed to production issue investigation and deployment planning activities
+
+---
+
+# ☁️ Cloud Infrastructure & DevOps Engineering
+
+To improve deployment consistency, monitoring visibility, and operational reliability, the platform leveraged Azure-based cloud infrastructure and CI/CD automation workflows.
+
+## ⚙️ Azure Services & Cloud Components
+
+- Azure App Services for scalable application hosting
+- Azure Functions and scheduled background jobs for asynchronous processing workflows
+- Azure SQL for improved cloud database scalability and management
+- Azure Monitor and Application Insights for production monitoring and diagnostics
+
+---
+
+## 🔄 CI/CD & Deployment Automation
+
+CI/CD pipelines were implemented to automate:
+- multi-environment deployments
+- build validation workflows
+- deployment consistency checks
+- release management processes
+
+These improvements helped reduce deployment risk and improve delivery efficiency across ongoing platform releases.
+
+---
+
+# ⚙️ Production Monitoring & Issue Resolution
+
+Production issues and performance bottlenecks were proactively monitored using Azure Monitor and Application Insights.
+
+This helped improve:
+- production visibility
+- issue diagnosis speed
+- system reliability
+- operational stability during high-traffic periods
+
+Backend performance optimizations and monitoring improvements contributed to more stable production operations across critical marketplace workflows.
