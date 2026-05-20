@@ -155,3 +155,42 @@ This helped improve:
 - operational stability during high-traffic periods
 
 Backend performance optimizations and monitoring improvements contributed to more stable production operations across critical marketplace workflows.
+
+---
+
+# 📈 Performance & Business Impact
+
+The modernization and cloud migration efforts significantly improved platform scalability, operational efficiency, deployment reliability, and user experience across core marketplace workflows.
+
+| Area | Improvement |
+|---|---|
+| Platform Modernization | Successfully migrated legacy ASP.NET MVC platform to .NET Core |
+| Search Performance | Improved product filtering and search responsiveness using Elasticsearch |
+| Deployment Efficiency | Improved release reliability through CI/CD automation |
+| Production Monitoring | Improved issue detection and operational visibility using Azure Monitor and Application Insights |
+| Subscription Workflows | Automated recurring subscription and promotional campaign processes |
+| User Engagement | Improved buyer-vendor interaction through direct messaging capabilities |
+
+---
+
+# 🚀 Key Engineering Outcomes
+
+- Improved platform maintainability through modernization to .NET Core
+- Enhanced marketplace scalability using Azure cloud infrastructure
+- Optimized large product catalog search functionality using Elasticsearch
+- Improved deployment consistency through CI/CD automation workflows
+- Increased operational visibility with cloud-native monitoring and diagnostics
+- Streamlined subscription and discount workflows using RESTful backend services
+- Improved customer experience through real-time communication capabilities
+
+---
+
+# 🧠 Engineering Impact
+
+This project provided valuable experience in:
+- enterprise platform modernization
+- cloud migration strategies
+- scalable marketplace architecture
+- production monitoring and troubleshooting
+- distributed backend system design
+- real-world business workflow automation
