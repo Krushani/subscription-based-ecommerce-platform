@@ -31,3 +31,74 @@ Instead of only rebuilding features, the primary engineering focus was improving
 **Database:** MySQL, Azure SQL  
 **DevOps:** CI/CD Pipelines, Azure Monitoring, Application Insights  
 **Real-Time Features:** Direct Messaging System, Notifications  
+
+---
+
+# ⚡ Engineering Challenges & Platform Modernization
+
+One of the primary engineering challenges was modernizing a legacy ASP.NET MVC marketplace platform into a scalable and maintainable cloud-native system using .NET Core and Azure services.
+
+The platform needed to:
+- support growing vendor and customer traffic
+- improve long-term maintainability
+- modernize deployment workflows
+- optimize product search performance
+- handle seasonal traffic spikes during promotional campaigns
+- improve subscription and payment processing workflows
+- support real-time communication between buyers and vendors
+
+As the platform continued to grow, the legacy architecture created limitations around scalability, deployment efficiency, and backend performance.
+
+To address these challenges, the platform was incrementally modernized using cloud-native backend services, RESTful APIs, Elasticsearch-powered search capabilities, and Azure-based infrastructure.
+
+---
+
+# 🏗️ Platform Architecture & Engineering Decisions
+
+## 🔹 Migration from ASP.NET MVC to .NET Core
+
+The platform was progressively migrated from ASP.NET MVC to .NET Core to improve application performance, scalability, maintainability, and cloud deployment capabilities.
+
+This modernization effort also improved backend API flexibility and enabled cleaner service integration patterns.
+
+---
+
+## 🔹 Elasticsearch for Advanced Product Search
+
+Elasticsearch was implemented to support advanced filtering and high-performance product search capabilities across large product catalogs.
+
+This significantly improved:
+- search response speed
+- filtering efficiency
+- user search experience
+- scalability for growing marketplace inventory
+
+---
+
+## 🔹 Subscription & Promotional Workflows
+
+RESTful APIs were designed to support:
+- monthly and yearly subscriptions
+- automated renewal workflows
+- promotional discounts and coupon systems
+- seasonal campaign functionality
+
+These workflows helped support scalable marketplace business operations and improved automation across subscription management processes.
+
+---
+
+## 🔹 Real-Time Direct Messaging System
+
+A real-time direct messaging system was implemented to allow buyers and vendors to communicate directly within the platform.
+
+This improved:
+- customer engagement
+- vendor responsiveness
+- transaction coordination
+- platform interaction experience
+
+---
+
+## 🔹 Google Maps Integration
+
+Google Maps APIs were integrated to help customers locate vendor stores, calculate distances, and improve location-based marketplace interactions.
