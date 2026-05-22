@@ -1,12 +1,12 @@
-# 🛒 Subscription-Based E-Commerce Platform
+# Subscription-Based E-Commerce Platform
 
 A scalable cloud-native marketplace platform engineered using **.NET Core, Azure, Elasticsearch, and RESTful microservices** to support vendor-buyer interactions, subscription management, advanced product search, and real-time communication.
 
-⚡ NDA-safe engineering case study focused on platform modernization, backend scalability, production resiliency, and distributed system design.
+NDA-safe engineering case study focused on platform modernization, backend scalability, production resiliency, and distributed system design.
 
 ---
 
-# 🚀 Why This Project Matters
+# Why This Project Matters
 
 Modern marketplace platforms must support large product catalogs, high user activity, subscription workflows, and real-time interactions while maintaining scalability and performance under growing traffic demands.
 
@@ -21,7 +21,7 @@ Instead of only rebuilding features, the primary engineering focus was improving
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 **Backend:** ASP.NET MVC, .NET Core, RESTful APIs  
 **Architecture:** Repository Pattern, Modular Backend Design  
@@ -34,7 +34,7 @@ Instead of only rebuilding features, the primary engineering focus was improving
 
 ---
 
-# ⚡ Engineering Challenges & Platform Modernization
+# Engineering Challenges & Platform Modernization
 
 One of the primary engineering challenges was modernizing a legacy ASP.NET MVC marketplace platform into a scalable and maintainable cloud-native system using .NET Core and Azure services.
 
@@ -53,9 +53,9 @@ To address these challenges, the platform was incrementally modernized using clo
 
 ---
 
-# 🏗️ Platform Architecture & Engineering Decisions
+# Platform Architecture & Engineering Decisions
 
-## 🔹 Migration from ASP.NET MVC to .NET Core
+## Migration from ASP.NET MVC to .NET Core
 
 The platform was progressively migrated from ASP.NET MVC to .NET Core to improve application performance, scalability, maintainability, and cloud deployment capabilities.
 
@@ -63,7 +63,7 @@ This modernization effort also improved backend API flexibility and enabled clea
 
 ---
 
-## 🔹 Elasticsearch for Advanced Product Search
+## Elasticsearch for Advanced Product Search
 
 Elasticsearch was implemented to support advanced filtering and high-performance product search capabilities across large product catalogs.
 
@@ -75,7 +75,7 @@ This significantly improved:
 
 ---
 
-## 🔹 Subscription & Promotional Workflows
+## Subscription & Promotional Workflows
 
 RESTful APIs were designed to support:
 - monthly and yearly subscriptions
@@ -87,7 +87,7 @@ These workflows helped support scalable marketplace business operations and impr
 
 ---
 
-## 🔹 Real-Time Direct Messaging System
+## Real-Time Direct Messaging System
 
 A real-time direct messaging system was implemented to allow buyers and vendors to communicate directly within the platform.
 
@@ -99,17 +99,17 @@ This improved:
 
 ---
 
-## 🔹 Google Maps Integration
+## Google Maps Integration
 
 Google Maps APIs were integrated to help customers locate vendor stores, calculate distances, and improve location-based marketplace interactions.
 
 ---
 
-# 👨‍💼 Leadership & Project Ownership
+# Leadership & Project Ownership
 
 In addition to backend engineering responsibilities, I contributed to technical leadership and cross-functional project coordination throughout the platform modernization initiative.
 
-## 🚀 Key Responsibilities
+## Key Responsibilities
 
 - Led backend feature development and modernization efforts during the migration to .NET Core
 - Participated in client discussions to gather technical and business requirements
@@ -119,11 +119,11 @@ In addition to backend engineering responsibilities, I contributed to technical 
 
 ---
 
-# ☁️ Cloud Infrastructure & DevOps Engineering
+# Cloud Infrastructure & DevOps Engineering
 
 To improve deployment consistency, monitoring visibility, and operational reliability, the platform leveraged Azure-based cloud infrastructure and CI/CD automation workflows.
 
-## ⚙️ Azure Services & Cloud Components
+## Azure Services & Cloud Components
 
 - Azure App Services for scalable application hosting
 - Azure Functions and scheduled background jobs for asynchronous processing workflows
@@ -132,7 +132,7 @@ To improve deployment consistency, monitoring visibility, and operational reliab
 
 ---
 
-## 🔄 CI/CD & Deployment Automation
+## CI/CD & Deployment Automation
 
 CI/CD pipelines were implemented to automate:
 - multi-environment deployments
@@ -144,7 +144,7 @@ These improvements helped reduce deployment risk and improve delivery efficiency
 
 ---
 
-# ⚙️ Production Monitoring & Issue Resolution
+# Production Monitoring & Issue Resolution
 
 Production issues and performance bottlenecks were proactively monitored using Azure Monitor and Application Insights.
 
@@ -158,7 +158,7 @@ Backend performance optimizations and monitoring improvements contributed to mor
 
 ---
 
-# 📈 Performance & Business Impact
+# Performance & Business Impact
 
 The modernization and cloud migration efforts significantly improved platform scalability, operational efficiency, deployment reliability, and user experience across core marketplace workflows.
 
@@ -173,7 +173,7 @@ The modernization and cloud migration efforts significantly improved platform sc
 
 ---
 
-# 🚀 Key Engineering Outcomes
+# Key Engineering Outcomes
 
 - Improved platform maintainability through modernization to .NET Core
 - Enhanced marketplace scalability using Azure cloud infrastructure
@@ -185,7 +185,7 @@ The modernization and cloud migration efforts significantly improved platform sc
 
 ---
 
-# 🧠 Engineering Impact
+# Engineering Impact
 
 This project provided valuable experience in:
 - enterprise platform modernization
@@ -197,7 +197,7 @@ This project provided valuable experience in:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 If scaling the platform further, the next engineering improvements would include:
 
@@ -211,7 +211,7 @@ If scaling the platform further, the next engineering improvements would include
 
 ---
 
-# 🧠 Key Engineering Learnings
+# Key Engineering Learnings
 
 This project strengthened my experience in:
 - enterprise application modernization
@@ -225,6 +225,6 @@ This project strengthened my experience in:
 
 ---
 
-# 📌 Closing Note
+# Closing Note
 
 This repository represents an NDA-safe engineering case study focused on scalable marketplace system design, platform modernization, cloud infrastructure, and production-ready backend engineering practices.
